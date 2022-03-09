@@ -1,0 +1,1 @@
+gcc MAIN.C -o MAIN && ./MAIN
